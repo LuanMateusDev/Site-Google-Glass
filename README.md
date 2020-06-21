@@ -1,2 +1,2 @@
 <h1>Basic of Html,Css3 and JavaScript - Website about Google Glass</h1>
-<p>This is a website about google glass, i did it, based on the basic basic course of html,css3 and javascript. This curso is old, but continuos relevant for the people with start to learn html, css3 and a lit bit of javascript.</p>
+<p>This is a website about google glass, i did it, based on the basic course of html,css3 and javascript. This curso is old, but continuos relevant for the people with start to learn html, css3 and a lit bit of javascript.</p>
