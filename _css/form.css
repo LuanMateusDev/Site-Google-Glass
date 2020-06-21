@@ -1,0 +1,73 @@
+fieldset#mensage p.men{
+    display: block;
+    position: relative;
+    text-align: left;
+    
+}
+form {
+    width: 500px;
+    margin: auto;
+}
+
+input, textarea{
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 13pt;
+    background-color: rgba(255, 255, 255, .8);
+}
+
+textarea{
+    width: 400px;
+    margin-left: 13.5px;
+}
+
+input:hover, textarea:hover{
+    background-color: #dddddd;
+
+}
+
+input#butao{
+    display: block;
+    position: relative;
+    margin: auto;  
+}
+input#butao:hover{
+    background-color: white;
+    cursor: pointer;
+    outline-style: hidden;
+}
+
+legend{
+        color: #888888;
+        font-weight: bold;
+        font-size: 13pt;
+        font-family: sans-serif;
+}
+
+fieldset {
+    border-color:#cecece;
+    margin: 20px;
+
+}
+fieldset#sexo{
+    width: 150px;
+}
+
+fieldset#usuario{
+    background: url(../_imagens/icone-contato.png) no-repeat 95% 95%; 
+}
+
+fieldset#endereco{
+    background: url(../_imagens/icone-endereco.png) no-repeat 95% 95%;
+}
+
+fieldset#mensage{
+    background: url(../_imagens/icone-mensagem.png) no-repeat 95% 95%;
+}
+
+fieldset#compra{
+    background: url(../_imagens/icone-pagamento.png) no-repeat 95% 95%;
+
+}
+
+
